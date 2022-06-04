@@ -25,5 +25,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: executar docker com meu nome
-        run: docker run docker/whalesay cowsay <ANTONIO LEANDRO FERNANDES E SOUSA>
+        run: docker run docker/whalesay cowsay ANTONIO LEANDRO FERNANDES E SOUSA
 
